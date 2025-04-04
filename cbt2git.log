@@ -1,0 +1,7 @@
+2025-04-04 09:26:01.696017 - Received CBT.V508.FILE420.PDS from FILE420.XMI 
+2025-04-04 09:26:01.696630 - Found BYACC.bin (application/octet-stream) in CBT.V508.FILE420.PDS, moved to PDS/BYACC
+2025-04-04 09:26:01.696836 - Found FLEX.bin (application/octet-stream) in CBT.V508.FILE420.PDS, moved to PDS/FLEX
+2025-04-04 09:26:01.696987 - Found GREP.bin (application/octet-stream) in CBT.V508.FILE420.PDS, moved to PDS/GREP
+2025-04-04 09:26:01.697140 - Found INDENT.bin (application/octet-stream) in CBT.V508.FILE420.PDS, moved to PDS/INDENT
+2025-04-04 09:26:01.697275 - Found PRINTPS.bin (application/octet-stream) in CBT.V508.FILE420.PDS, moved to PDS/PRINTPS
+2025-04-04 09:26:01.697407 - Found WHAT.bin (application/octet-stream) in CBT.V508.FILE420.PDS, moved to PDS/WHAT
